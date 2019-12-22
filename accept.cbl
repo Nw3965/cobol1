@@ -9,7 +9,7 @@
         DISPLAY "What's your name?".
 
         ACCEPT MY-DATA.
-        *> ACCEPT文で入力を受け付ける。文字列を連結して表示する。
+        *> ACCEPT文で入力を受け付ける。
         
         DISPLAY "Hello" MY-DATA.  
         *>文字列を連結して表示する。

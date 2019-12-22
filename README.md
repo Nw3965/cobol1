@@ -1,1 +1,1 @@
-# cobol1 dot install
+# OpenCobolIDE 

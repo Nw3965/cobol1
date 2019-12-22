@@ -3,9 +3,7 @@
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
-        01 MY-SIGNAL PIC X(5).
-        
-                   
+        01 MY-SIGNAL PIC X(5).                 
        PROCEDURE DIVISION.
        MAIN SECTION.
           DISPLAY "What was the traffic light color?".
